@@ -10,7 +10,7 @@ Aim of the project is to:
 1. Determine the common traits among these loan defaulters using Pandas & Numpy
 2. Build a model to predict the future defaulters based on their traits using Machine Learning
 
-View the full presentation here: https://github.com/Viggy1357/datasciencehackathonBankEvie/blob/main/Vignesh_Team9_YME_Hackathon.ipynb
+View the full presentation here: https://github.com/Viggy1357/datasciencehackathonBankEvie/blob/main/YME_Hackathon.ipynb
 It shares the insights from the analysis and next steps. 
 
 View the full codes here: https://github.com/Viggy1357/datasciencehackathonBankEvie/blob/main/Vignesh_Team9_YME_Hackathon.ipynb
