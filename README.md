@@ -13,5 +13,5 @@ Aim of the project is to:
 View the full presentation here: https://github.com/Viggy1357/datasciencehackathonBankEvie/blob/main/YME_Hackathon.ipynb
 It shares the insights from the analysis and next steps. 
 
-View the full codes here: https://github.com/Viggy1357/datasciencehackathonBankEvie/blob/main/Vignesh_Team9_YME_Hackathon.ipynb
+View the full codes here: https://github.com/Viggy1357/datasciencehackathonBankEvie/blob/main/YME_Hackathon.ipynb
 I used 4 different ML models to find the highest accuracy: Linear Regressions, SVM, Bayes and Stacked(Mixed)
